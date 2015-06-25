@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: c326b547ed41524478201f63ce2c31e9
+timeCreated: 1435142423
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PlanetSprites_0
+    21300002: PlanetSprites_1
+    21300004: PlanetSprites_2
+    21300006: PlanetSprites_3
+    21300008: PlanetSprites_4
+    21300010: PlanetSprites_5
+    21300012: PlanetSprites_6
+    21300014: PlanetSprites_7
+    21300016: PlanetSprites_8
+    21300018: PlanetSprites_9
+    21300020: PlanetSprites_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1250
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: PlanetSprites_0
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1179
+        width: 913
+        height: 938
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_1
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1167
+        width: 924
+        height: 940
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_2
+      rect:
+        serializedVersion: 2
+        x: 2020
+        y: 1099
+        width: 1023
+        height: 1011
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_3
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 1144
+        width: 986
+        height: 988
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_4
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 1067
+        width: 1043
+        height: 998
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_5
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 147
+        width: 969
+        height: 976
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_6
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 106
+        width: 972
+        height: 972
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_7
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 45
+        width: 1010
+        height: 1009
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_8
+      rect:
+        serializedVersion: 2
+        x: 3115
+        y: 40
+        width: 1080
+        height: 1008
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_9
+      rect:
+        serializedVersion: 2
+        x: 4291
+        y: 209
+        width: 1616
+        height: 734
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: PlanetSprites_10
+      rect:
+        serializedVersion: 2
+        x: 5362
+        y: 1061
+        width: 1032
+        height: 959
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
